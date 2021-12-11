@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/extension-tao-revision",
+  "name": "openthinklabs/extension-tao-revision",
   "description": "The extension allows saving the intermediate state of objects and restoring them",
   "type": "tao-extension",
   "authors": [
